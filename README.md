@@ -1,4 +1,4 @@
-## Welcome to Bermuda Digital Entertainment !
+## Welcome to Bermuda Digital Entertainment
 
 You can use the [editor on GitHub](https://github.com/Bermuda-Digital-Entertainment/Bermuda-Digital-Entertainment.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
