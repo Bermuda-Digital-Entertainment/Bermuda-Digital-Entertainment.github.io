@@ -1,5 +1,15 @@
 ## Welcome to Bermuda Digital Entertainment
 
+### Contributors -
+Joseph Sisson
+Sebastian Sobczyk
+Prajwal Binnamangala
+Aymeric Goransson
+David Ademola
+CJ
+
+### Documentations can be found below -
+
 You can use the [editor on GitHub](https://github.com/Bermuda-Digital-Entertainment/Bermuda-Digital-Entertainment.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
