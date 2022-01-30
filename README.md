@@ -1,11 +1,11 @@
 ## Welcome to Bermuda Digital Entertainment
 
 ### Contributors -
-Joseph Sisson
-Sebastian Sobczyk
-Prajwal Binnamangala
-Aymeric Goransson
-David Ademola
+Joseph Sisson  
+Sebastian Sobczyk  
+Prajwal Binnamangala  
+Aymeric Goransson  
+David Ademola  
 CJ
 
 ### Documentations can be found below -
