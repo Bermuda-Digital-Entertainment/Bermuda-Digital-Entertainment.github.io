@@ -8,6 +8,6 @@ Sebastian Sobczyk
 Prajwal Binnamangala  
 Aymeric Goransson  
 David Ademola  
-CJ
+CJ Donoghue
 
 ### Documentations can be found below -
