@@ -2,7 +2,7 @@
 
 ## Welcome to Bermuda Digital Entertainment
 
-![Image](1nNCbKmXAv3fgPWm7zRbdMHIoIBUjF7WZenx2Ffm0FW8.png)
+![Image](https://raw.githubusercontent.com/Bermuda-Digital-Entertainment/Bermuda-Digital-Entertainment.github.io/main/sketch1637236412549.png)
 
 ### Contributors -
 Joseph Sisson  
