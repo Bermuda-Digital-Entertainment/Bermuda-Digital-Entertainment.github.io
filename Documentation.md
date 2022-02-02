@@ -11,7 +11,9 @@ These can be found below:
 
 ## Requirements
 
+
 ## Architecture
+[docs/Arch1.pdf] (https://bermuda-digital-entertainment.github.io/docs/Arch1.pdf)
 
 ## Method selection and Planning
 
