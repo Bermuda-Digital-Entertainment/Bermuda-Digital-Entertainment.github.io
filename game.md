@@ -10,5 +10,5 @@ The game that we have developed is called York Pirates. It is a game written in 
 ## Source
 
 You can find the source code of our game  
-(here) [https://github.com/Bermuda-Digital-Entertainment/York-Pirates]
+[here] (https://github.com/Bermuda-Digital-Entertainment/York-Pirates)
 
