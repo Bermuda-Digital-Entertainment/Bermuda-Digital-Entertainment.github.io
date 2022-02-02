@@ -1,5 +1,5 @@
-(Documentation.md)
-(game.md)
+[Documentation] (documentation.html)
+[Game] (game.html)
 
 ## Welcome to Bermuda Digital Entertainment
 
