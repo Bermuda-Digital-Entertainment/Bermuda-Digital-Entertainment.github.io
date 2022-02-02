@@ -1,5 +1,5 @@
-[Documentation] (documentation.html)
-[Game] (game.html)
+[Documentation] (https://Bermuda-Digital-Entertainment.github.io/documentation.html)
+[Game] (https://Bermuda-Digital-Entertainment.github.io/game.html)
 
 ## Welcome to Bermuda Digital Entertainment
 
