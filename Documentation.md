@@ -20,3 +20,6 @@ Method Selection (https://bermuda-digital-entertainment.github.io/docs/Plan1.pdf
 
 ## Risk Assessment
 Risk Assessment (https://bermuda-digital-entertainment.github.io/docs/Risk1.pdf)
+
+##Implementation
+Implementation (https://bermuda-digital-entertainment.github.io/docs/Impl1.pdf)
