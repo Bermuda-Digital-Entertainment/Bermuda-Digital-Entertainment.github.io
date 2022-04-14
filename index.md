@@ -4,16 +4,22 @@ layout: default
 # York Pirates!
 ## About This Website
 This is the website for the York Pirates! game.
-This game is made by Bermuda Digital Entertainment (Team 7) for an Engineering 1 group project at the University of York.
+This game is made by Bermuda Digital Entertainment (Team 7) for an Engineering 1 group project at the University of York, based off work by Bass2 (Team 14).
 
-The game can be [downloaded](https://github.com/engteam14/yorkpirates/releases) from our [GitHub repository](https://github.com/engteam14/yorkpirates).
+The game can be downloaded from our [GitHub repository](https://github.com/Bermuda-Digital-Entertainment/York-Pirates-2).
 
 - [**Home**]() - This page will go over what York Pirates! is, how to play it, and provide information about how our code works.
 - [**GitHub**](https://github.com/Bermuda-Digital-Entertainment/York-Pirates-2) - Our GitHub repository contains all the code for the project, as well as downloads.
-- [**Deliverables**](/deliverables) - All the project deliverables will be listed here.
-- [**Plan**](/plan) - Information about how the project was planned throughout development is shown here.
-- [**Use Case**](/usecase) - Shows our planned use case for the game.
-- [**Files**](/files) - Any additional files are listed here.
+- [**Assessment 1**](/assessment1) - Work by Bass2 for the first half of the project.
+    - [**Deliverables**](assessment1/deliverables) - All the project deliverables will be listed here.
+    - [**Plan**](/assessment1/plan) - Information about how the project was planned throughout development is shown here.
+    - [**Use Case**](/assessment1/usecase) - Shows our planned use case for the game.
+    - [**Files**](/assessment1/files) - Any additional files are listed here.
+- [**Assessment 2**](/assessment2) - Work by Bermuda Digital Entertainment for the second half of the project.
+    - [**Deliverables**](assessment2/deliverables)
+    - [**Plan**](/assessment2/plan)
+    - [**Use Case**](/assessment2/usecase)
+    - [**Files**](/assessment2/files)
 
 ![Game Logo](/media/Logo.gif)
 
@@ -119,5 +125,4 @@ The software [Tiled](https://www.mapeditor.org) can be used to produce levels, w
 <br/><br/>![Tiled](/media/tiled.gif)
 <br/><br/>Maps from Tiled can be easily imported into LibGDX, and we've even implemented our own collision system around it - ready out of the box!
 
-## Now's the best time to go Bermuda Digital Entertainment!
-[Check out](https://github.com/Bermuda-Digital-Entertainment/York-Pirates-2) our repository on GitHub!
+# [Check out](https://github.com/Bermuda-Digital-Entertainment/York-Pirates-2) our repository on GitHub!
