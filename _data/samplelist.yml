@@ -9,22 +9,13 @@ docs:
   target: _self
 
 - title: GitHub
-  url: https://github.com/engteam14/yorkpirates
+  url: https://github.com/Bermuda-Digital-Entertainment/York-Pirates-2
   target: _blank
 
-- title: Deliverables
-  url: /deliverables
+- title: Assessment 1
+  url: /assessment1
   target: _self
-
-- title: Plan
-  url: /plan
+  
+- title: Assessment 2
+  url: /assessment2
   target: _self
-
-- title: Use Case
-  url: /usecase
-  target: _self
-
-- title: Files
-  url: /files
-  target: _self
-
