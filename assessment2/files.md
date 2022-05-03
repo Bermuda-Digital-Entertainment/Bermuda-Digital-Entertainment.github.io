@@ -30,4 +30,4 @@ Once our implementation was complete, we were able to make the Concrete Represen
 # Meeting Records
 [**Google Drive**](https://docs.google.com/document/d/1MDmtbA5OqfojjrDicncxZBfIQw1IR0gleNUuSCtcVTY/edit?usp=sharing)
 <br/>
-[**Download**](https://github.com/Bermuda-Digital-Entertainment/Bermuda-Digital-Entertainment.github.io/blob/main/documents/meetingrecords.pdf)
+[**Download**](https://bermuda-digital-entertainment.github.io/documents/meetingrecords.pdf)
