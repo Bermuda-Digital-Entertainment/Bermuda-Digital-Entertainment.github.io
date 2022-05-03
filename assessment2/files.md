@@ -23,3 +23,11 @@ Once our implementation was complete, we were able to make the Concrete Represen
 *Concrete Architecture Inheritance using UML*
 ![Relationships]()
 *Concrete Architecture Relationships using UML*
+
+# Testing Evidence
+[**View Here**](https://bermuda-digital-entertainment.github.io/test/index.html)
+
+# Meeting Records
+[**Google Drive**](https://docs.google.com/document/d/1MDmtbA5OqfojjrDicncxZBfIQw1IR0gleNUuSCtcVTY/edit?usp=sharing)
+<br/>
+[**Download**](https://github.com/Bermuda-Digital-Entertainment/Bermuda-Digital-Entertainment.github.io/blob/main/documents/meetingrecords.pdf)
