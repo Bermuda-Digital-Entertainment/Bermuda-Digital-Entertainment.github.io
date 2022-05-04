@@ -4,6 +4,7 @@ layout: default
 Information about the planning of the project can be found here in the form of Gantt Charts and Github Issues screenshots.
 
 # Gantt Chart
+[**View Final Plan PDF here**](https://bermuda-digital-entertainment.github.io/documents/assessment2/final_plan.pdf)
 [**View on Google Drive here**](https://docs.google.com/spreadsheets/d/1htRc6RehZ0aLZ2r6Vf_DoDe_ONp8uhHhrF-iT5Chgdc/edit?usp=sharing)
 
 Here are snapshots of our Gantt Chart taken throughout the project.
