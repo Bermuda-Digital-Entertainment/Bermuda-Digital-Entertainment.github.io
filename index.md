@@ -6,7 +6,7 @@ layout: default
 This is the website for the York Pirates! game.
 This game is made by Bermuda Digital Entertainment (Team 7) for an Engineering 1 group project at the University of York, based off work by Bass2 (Team 14).
 
-The game can be downloaded from our [GitHub repository](https://github.com/Bermuda-Digital-Entertainment/York-Pirates-2).
+[The game can be downloaded from our GitHub repository](https://github.com/Bermuda-Digital-Entertainment/York-Pirates-2/releases/tag/1.0.1).
 
 - [**Home**]() - This page will go over what York Pirates! is, how to play it, and provide information about how our code works.
 - [**GitHub**](https://github.com/Bermuda-Digital-Entertainment/York-Pirates-2) - Our GitHub repository contains all the code for the project, as well as downloads.
